@@ -1,2 +1,13 @@
 # python code 
 print("Hello World")
+
+
+# java code
+#save this code as A.java
+class A{
+
+public static void main(String args[]){
+
+System.out.println("Hello World")
+}
+}
